@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
 
 export default function NavigationBar(){
-  const items = ['all','best-sellers','mobiles','electronics','fashion','home','appliances','toys-baby','grocery'];
+  const items = ['all','best-sellers','mobiles','electronics','fashion','appliances','toys-baby','grocery'];
   const [open, setOpen] = useState(false);
 
   return (
